@@ -1,8 +1,8 @@
 {
-  "validation_rmsle": 1.9094680647882865,
-  "train_samples": 121581,
-  "validation_samples": 20914,
-  "test_samples": 318722,
-  "train_median_views": 255.0,
-  "test_median_views": 285.0
+  "validation_rmsle": 0.5899587944906779,
+  "train_samples": 4302,
+  "validation_samples": 695,
+  "test_samples": 3000,
+  "train_median_views": 476.0,
+  "test_median_views": 420.0
 }
